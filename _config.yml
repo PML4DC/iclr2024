@@ -1,7 +1,7 @@
 theme: jekyll-theme-architect
-description: "Practical ML for Developing Countries Workshop @ ICLR 2023, 
+description: "Practical ML for Low Resource Settings Workshop @ ICLR 2024, 
     <br/> Learning under limited/low resource scenarios"
-basepath: "iclr2023/"
+basepath: "iclr2024/"
 google_analytics: UA-156425047-1
 
 navigation:
