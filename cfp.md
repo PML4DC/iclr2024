@@ -32,16 +32,16 @@ Resource constraints in developing countries can  necessitate alternatives to co
 - Short papers and position pieces (up to 5 pages)
 - Problem statements and abstracts (up to 2 page)
 
-- In addition, ongoing work and papers that have appeared in a non-archival venue (workshops, arXiv, etc) are welcome. You may also submit work that has appeared in an archival venues in 2022 or 2023. Please note that accepted papers at PML4DC are non-archival.
+- In addition, ongoing work and papers that have appeared in a non-archival venue (workshops, arXiv, etc) are welcome. You may also submit work that has appeared in an archival venues in 2022 or 2023. Please note that accepted papers at PML4LRS are non-archival.
 
 ### Accepted Submissions
  - 5-page submissions will be _eligible_ for oral or poster presentation. 
  - 2-page submissions will be presented as posters. In both cases, page limit applies to content only, excluding references.
- - PML4DC will arrange registration/attendance sponsorships for authors of accepted submissions.
+ - PML4LRS will arrange registration/attendance sponsorships for authors of accepted submissions.
 
 
 ### Submission Format and Link
-Contributions should be anonymized and submitted using the [ICLR template](https://github.com/ICLR/Master-Template/raw/master/iclr2024.zip){:target="_blank" rel="noopener"} via [CMT](https://openreview.net/group?id=ICLR.cc/2024/Workshop/PML4LRS).
+Contributions should be anonymized and submitted using the [ICLR template](https://github.com/ICLR/Master-Template/raw/master/iclr2024.zip){:target="_blank" rel="noopener"} via [Openreview](https://openreview.net/group?id=ICLR.cc/2024/Workshop/PML4LRS).
 [https://openreview.net/group?id=ICLR.cc/2024/Workshop/PML4LRS](https://openreview.net/group?id=ICLR.cc/2024/Workshop/PML4LRS). <!--https://cmt3.research.microsoft.com/ICLRWorkshops2022/Submission/Index-->
 We have also included a [brief guide on](formatting) how to use the CMT template.
 
