@@ -29,7 +29,7 @@
 
     <div class="iblock organizerbox ">
     <a target='_blank' href="https://research.ibm.com/people/john-wamburu">
-     <img src="{{basepath}}/images/organizers/person.jpg" class="headshot" alt="picture of John">
+     <img src="{{basepath}}/images/organizers/john.jpg" class="headshot" alt="picture of John">
       </a>
         <div class="headshotname"> John Wamburu </div>
         <a href="https://research.ibm.com/people/john-wamburu"  target='_blank' class="headshotaffiliation"> IBM Research</a>
