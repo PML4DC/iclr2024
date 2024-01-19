@@ -1,4 +1,4 @@
-##  PML4DC @ <a target='_blank' href='https://iclr.cc/'> ICLR 2024</a>
+##  PML4LRS @ <a target='_blank' href='https://iclr.cc/'> ICLR 2024</a>
 
 {% if jekyll.environment  == "production" %}
         {% assign basepath = "/iclr2024" %}
