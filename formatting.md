@@ -6,10 +6,10 @@ To support the new authors on the submission and formatting process, we are prov
 
 ### Important steps
 
-- Download the ICLR [template](https://github.com/ICLR/Master-Template/raw/master/iclr2023.zip) 
+- Download the ICLR [template](https://github.com/ICLR/Master-Template/raw/master/iclr2024.zip) 
 - Make submission edits on the file <b><i>iclr2023_conference.tex</i></b> template
 - Optionally make edits after uploading the ICLR template files to [overleaf](https://www.overleaf.com/)
-- Finally submit the anonymized pdf format of your paper to [CMT PML4DC](https://cmt3.research.microsoft.com/PML4DC2023/)
+- Finally submit the anonymized pdf format of your paper to [CMT PML4LRS](https://openreview.net/group?id=ICLR.cc/2024/Workshop/PML4LRS)
 
 ### Addtional Information
 
