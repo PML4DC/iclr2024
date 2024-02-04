@@ -16,7 +16,7 @@
         <img src="{{basepath}}/images/organizers/Aisha.jpg" class="headshot" alt="picture of Aisha">
       </a>
         <div class="headshotname"> Aisha Alaagib </div>
-        <a href="https://twitter.com/AishaAlaagib"  target='_blank' class="headshotaffiliation"> DFKI </a>
+        <a href="https://twitter.com/AishaAlaagib"  target='_blank' class="headshotaffiliation">   </a>
     </div>
 
     <div class="iblock organizerbox "> 
