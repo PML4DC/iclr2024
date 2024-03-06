@@ -35,6 +35,14 @@
         <a href="https://research.ibm.com/people/john-wamburu"  target='_blank' class="headshotaffiliation"> IBM Research</a>
     </div>
 
+    <div class="iblock organizerbox ">
+    <a target='_blank' href="https://research.ibm.com/people/maysa-malfiza-garcia-de-macedo">
+     <img src="{{basepath}}/images/organizers/Maysa.jpg" class="headshot" alt="picture of Maysa">
+      </a>
+        <div class="headshotname"> Maysa Macedo </div>
+        <a href="https://research.ibm.com/people/maysa-malfiza-garcia-de-macedo"  target='_blank' class="headshotaffiliation"> IBM Research</a>
+    </div>
+
      <div class="iblock organizerbox ">
      <a target='_blank' href="https://researcher.watson.ibm.com/researcher/view.php?person=za-WSaib">
         <img src="{{basepath}}/images/organizers/waheeda.jpg" class="headshot" alt="picture of Waheeda">
