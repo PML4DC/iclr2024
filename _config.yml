@@ -11,8 +11,8 @@ navigation:
   url: /cfp.html
 - text: DATES
   url: /dates.html
-#- text: PROGRAM
- # url: /program.html
+- text: PROGRAM
+  url: /program.html
 - text: ORGANIZERS
   url: /organizers.html
 
