@@ -19,7 +19,6 @@ The schedule is as follows. All times listed are in GMT+1:
 |12:00 - 12:15 |Contributed Talk 5: TBD |TBD |
 |12:05 - 12:20 |Contributed Talk 6: TBD |TBD |
 |12:20 - 02:15 |Lunch + Poster Session II | |
-
 |02:50 - 03:05 |TBD |TBD |
 |03:05 - 03:20 |TBD |TBD |
 |03:20 - 03:35 TBD |TBD |
