@@ -37,7 +37,7 @@ Resource constraints in developing countries can  necessitate alternatives to co
 ### Accepted Submissions
  - 5-page submissions will be _eligible_ for oral or poster presentation. 
  - 2-page submissions will be presented as posters. In both cases, page limit applies to content only, excluding references.
- - PML4LRS will arrange registration/attendance sponsorships for authors of accepted submissions.
+ - PML4LRS will provide registration tickets for a **few** accepted submissions only.
 
 
 ### Submission Format and Link
