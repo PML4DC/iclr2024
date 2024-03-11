@@ -37,8 +37,6 @@ Resource constraints in developing countries can  necessitate alternatives to co
 ### Accepted Submissions
  - 5-page submissions will be _eligible_ for oral or poster presentation. 
  - 2-page submissions will be presented as posters. In both cases, page limit applies to content only, excluding references.
- - PML4LRS will provide registration tickets for a **few** accepted submissions only.
-
 
 ### Submission Format and Link
 Contributions should be anonymized and submitted using the [ICLR template](https://github.com/ICLR/Master-Template/raw/master/iclr2024.zip){:target="_blank" rel="noopener"} via [Openreview](https://openreview.net/group?id=ICLR.cc/2024/Workshop/PML4LRS).
