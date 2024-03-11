@@ -1,6 +1,6 @@
 ## Schedule
 
-The workshop will be a full day event from 9:00 am - 6:15 pm EDT (New York Time).Throughout the day we will be livestreaming invited talks, contributed talks, two poster sessions, and a live panel discussion.
+The workshop will be a full day event from 9:00 am - 6:15 pm GMT+1 (Vienna Time).Throughout the day we will be livestreaming invited talks, contributed talks, two poster sessions, and a live panel discussion.
 
 The schedule is as follows. All times listed are in GMT+1:
 
