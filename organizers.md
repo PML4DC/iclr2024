@@ -42,13 +42,13 @@
         <div class="headshotname"> Gilles Quentin Hacheme </div>
         <a href="https://www.microsoft.com/en-us/research/people/ghacheme/?lang=fr_ca"  target='_blank' class="headshotaffiliation"> Microsoft AI for Good </a>
     </div>
-    
- <div class="iblock organizerbox "> 
-    <a target='_blank' href="https://esube.github.io/">
-        <img src="{{basepath}}/images/organizers/esube.jpg" class="headshot" alt='picture of Esube'>
+
+    <div class="iblock organizerbox "> 
+    <a target='_blank'https://esube.github.io/">
+        <img src="{{basepath}}/images/organizers/esube.jpg" class="headshot" alt='picture of esube'>
      </a>
         <div class="headshotname"> Esube Bekele </div>
-        <a href="https://esube.github.io/"  target='_blank' class="headshotaffiliation"> In-Q-Tel </a>
+        <a href="https://esube.github.io"  target='_blank' class="headshotaffiliation"> In-Q-Tel </a>
     </div>
     
      <div class="iblock organizerbox ">
@@ -83,6 +83,7 @@
         <a href="https://www.linkedin.com/in/meareg-a-hailemariam/"  target='_blank' class="headshotaffiliation" alt="picture of Meareg"> University of California, Berkeley </a>
     </div>
 
+
      <div class="iblock organizerbox ">
      <a   target='_blank' href="https://www.linkedin.com/in/nyalleng-moorosi-a711ab6/?originalSubdomain=ls">
         <img src="{{basepath}}/images/organizers/Nyalleng.jpg" class="headshot" alt="picture of Nyalleng">
@@ -90,7 +91,6 @@
         <div class="headshotname"> Nyalleng Moorosi </div>
         <a href="https://www.linkedin.com/in/nyalleng-moorosi-a711ab6/?originalSubdomain=ls"  target='_blank' class="headshotaffiliation"> DAIR </a>
   </div>
-        
         
 </div>
        
