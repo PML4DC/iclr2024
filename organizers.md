@@ -19,13 +19,6 @@
         <a href="https://twitter.com/AishaAlaagib"  target='_blank' class="headshotaffiliation"> DFKI </a>
     </div>
 
-    <div class="iblock organizerbox "> 
-    <a target='_blank' href="https://esube.github.io/">
-        <img src="{{basepath}}/images/organizers/esube.jpg" class="headshot" alt='picture of Esube'>
-     </a>
-        <div class="headshotname"> Esube Bekele </div>
-        <a href="https://esube.github.io/"  target='_blank' class="headshotaffiliation"> In-Q-Tel </a>
-    </div>
 
     <div class="iblock organizerbox ">
     <a target='_blank' href="https://research.ibm.com/people/john-wamburu">
@@ -43,6 +36,22 @@
         <a href="https://research.ibm.com/people/maysa-malfiza-garcia-de-macedo"  target='_blank' class="headshotaffiliation"> IBM Research</a>
     </div>
 
+     <div class="iblock organizerbox "> 
+    <a target='_blank' https://www.microsoft.com/en-us/research/people/ghacheme/?lang=fr_ca">
+        <img src="{{basepath}}/images/organizers/Gilles.jpg" class="headshot" alt='picture of Gilles'>
+     </a>
+        <div class="headshotname"> Gilles Quentin Hacheme </div>
+        <a href="https://www.microsoft.com/en-us/research/people/ghacheme/?lang=fr_ca"  target='_blank' class="headshotaffiliation"> Microsoft AI for Good </a>
+    </div>
+    
+ <div class="iblock organizerbox "> 
+    <a target='_blank' href="https://esube.github.io/">
+        <img src="{{basepath}}/images/organizers/esube.jpg" class="headshot" alt='picture of Esube'>
+     </a>
+        <div class="headshotname"> Esube Bekele </div>
+        <a href="https://esube.github.io/"  target='_blank' class="headshotaffiliation"> In-Q-Tel </a>
+    </div>
+    
      <div class="iblock organizerbox ">
      <a target='_blank' href="https://researcher.watson.ibm.com/researcher/view.php?person=za-WSaib">
         <img src="{{basepath}}/images/organizers/waheeda.jpg" class="headshot" alt="picture of Waheeda">
