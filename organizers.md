@@ -36,7 +36,7 @@
     </div>
 
      <div class="iblock organizerbox "> 
-    <a target='_blank' https://www.microsoft.com/en-us/research/people/ghacheme/?lang=fr_ca">
+    <a target='_blank'  href="https://www.microsoft.com/en-us/research/people/ghacheme/?lang=fr_ca">
         <img src="{{basepath}}/images/organizers/Gilles.jpg" class="headshot" alt='picture of Gilles'>
      </a>
         <div class="headshotname"> Gilles Quentin Hacheme </div>
@@ -44,7 +44,7 @@
     </div>
 
     <div class="iblock organizerbox "> 
-    <a target='_blank'https://esube.github.io/">
+    <a target='_blank'  href="https://esube.github.io/">
         <img src="{{basepath}}/images/organizers/esube.jpg" class="headshot" alt='picture of esube'>
      </a>
         <div class="headshotname"> Esube Bekele </div>
