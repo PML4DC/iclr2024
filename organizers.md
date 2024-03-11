@@ -19,7 +19,6 @@
         <a href="https://twitter.com/AishaAlaagib"  target='_blank' class="headshotaffiliation"> DFKI </a>
     </div>
 
-
     <div class="iblock organizerbox ">
     <a target='_blank' href="https://research.ibm.com/people/john-wamburu">
      <img src="{{basepath}}/images/organizers/john.jpg" class="headshot" alt="picture of John">
