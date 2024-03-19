@@ -25,7 +25,6 @@ The schedule is as follows. All times listed are in GMT+1:
 |04:35 - 04:50 |Contributed Talk10: TBD |TBD |
 |04:50 - 05:30 |Invited talk4: TBD |TBD |
 |05:30 - 05:45 |Closing Remarks | |
-|05:45 - 06:30 |Poster Session II: TBD |TBD |
 
 
 The Panel Discussion will focus on training data creation and ownership issues: The tension between reducing resources such as the expense to annotate and gather datasets vs. hiring people to label and annotate datasets (many of the people labeling right now are from the developing world). Most training data labeling companies are hiring people from the developing world for this effort. But a lot of the data is not owned by people from the developing world.
