@@ -29,12 +29,12 @@ The main goal of PML4LRS is to bring together researchers and practitioners (fro
 ## Keynote Speakers
 <div>
 
- <div class="iblock headshotname"> Kathleen Simunyu </div>
- <p><a href="https://twitter.com/siminyu_kat" class="headshotaffiliation" target="_blank">Mozilla</a></p>
+ <div class="iblock headshotname"> Dalton D Lunga </div>
+ <p><a href="https://www.ornl.gov/staff-profile/dalton-d-lunga" class="headshotaffiliation" target="_blank">ORNL</a></p>
  <div class="iblock headshotbox"> 
-  <p><img src="{{basepath}}/images/speakers/kat.jpg" class="headshot" alt="picture of Kat"></p>
+  <p><img src="{{basepath}}/images/speakers/Dalton.jpg" class="headshot" alt="picture of Dalton D Lunga"></p>
   <p align='justify'>
-  Kathleen Siminyu is an AI Researcher focused on Natural Language Processing for African Languages. She works at Mozilla Foundation as a Machine Learning Fellow to support the development of Kiswahili Speech Recognition. Kathleen is also currently part of a committee constituted by the African Union to develop an Artificial Intelligence continental strategy for Africa.  Before joining Mozilla, Kathleen was Regional Coordinator of AI4D Africa, where she worked with ML and AI communities in Africa to run various programs. One of these, a fellowship for African language dataset creation, led to the creation of over 15 African language datasets. For this work, Kathleen was listed as one of the <a href="https://www.technologyreview.com/innovator/kathleen-siminyu/" > MIT Technology Review 35 Innovators under 35 for 2022</a>. She continues to organise communities as part of the<a href="http://deeplearningindaba.com/" > Deep Learning Indaba</a> and the <a href="https://www.masakhane.io/" >Masakhane Research Foundation</a> .
+  Dalton is currently a senior research scientist in machine learning-driven geospatial image analytics and a group leader for the geospatial-based artificial intelligence (GeoAI) group at ORNL.  In this role, he leverages high-performance computing, machine learning, and computer vision to create foundational geospatial analytic methods enabling at-scale data generation that shed light on pattern-of-life and aid in crisis management. His efforts to generate accurate population estimates and information about urban growth and decline, for example, inform disaster response, identify at-risk areas, and address infrastructure mapping and monitoring. A Purdue University Ph.D. graduate and former employee at the council for scientific and industrial research in South Africa, Dalton brings backgrounds from academia, industry, program leadership, and extensive community service to ORNL to help advance geospatial-based scientific knowledge discovery for societal impact.
 
   </p>
  </div>
