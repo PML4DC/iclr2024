@@ -25,7 +25,7 @@ The main goal of PML4LRS is to bring together researchers and practitioners (fro
 *  Industry practices to scale-up ML solutions in low resource settings while balancing performance and latency tradeoffs
 * Societal and policy impacts of ML solutions in developing countries obtained via pilot studies, qualitative research, and human-in-the-loop settings.
 
-<!--
+
 ## Keynote Speakers
 <div>
 
@@ -38,7 +38,7 @@ The main goal of PML4LRS is to bring together researchers and practitioners (fro
 
   </p>
  </div>
-
+<!--
  <br><br>
 
   <div class="iblock headshotname"> James Zou </div>
