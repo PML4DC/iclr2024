@@ -4,7 +4,7 @@ The workshop will be a full day event from 8:30 am - 05:00 pm GMT+1 (Vienna Time
 
 The schedule is as follows. All times listed are in GMT+1:
 
-|Time           |Talk Title         |Speaker |
+|Time           |  Speaker    |Talk Title    |
 | ------------- | ----------------- | ------ |
 |08:30 - 08:45 |Opening Remarks | |
 |08:45 - 09:10 |Keynote speaker1: Aditya Grover |TBD |
@@ -20,7 +20,7 @@ The schedule is as follows. All times listed are in GMT+1:
 |11:45 - 12:45 |Panel Discussion:  Parameter and resource efficient development and use of Large Language Models (LLMs) |TBD |
 |12:45 - 02:15 |Lunch| |
 |02:15 - 02:40 |Keynote speaker2: Georgina Curto Rex |Machine Learning and Inclusion |
-|02:40 - 02:45 |Q&A: Georgina Curto Rex ||Machine Learning and Inclusion |
+|02:40 - 02:45 |Q&A: Georgina Curto Rex |Machine Learning and Inclusion |
 |02:45 - 03:10 |Keynote speake3: Dalton Lunga |Frontiers in AI for Human Security |
 |03:10 - 03:15 |Q&A:Dalton Lunga |Frontiers in AI for Human Security |
 |03:15 - 04:15 |Coffee Break + Poster Session II| |
