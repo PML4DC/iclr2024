@@ -39,7 +39,7 @@ The main goal of PML4LRS is to bring together researchers and practitioners (fro
 
   </p>
  </div>
-<!--
+
  <br><br>
 
   <div class="iblock headshotname"> Aditya Grover </div>
