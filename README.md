@@ -34,32 +34,41 @@ The main goal of PML4LRS is to bring together researchers and practitioners (fro
  <div class="iblock headshotbox"> 
   <p><img src="{{basepath}}/images/speakers/Dalton.jpg" class="headshot" alt="picture of Dalton D Lunga"></p>
   <p align='justify'>
-  Dalton is currently a senior research scientist in machine learning-driven geospatial image analytics and a group leader for the geospatial-based artificial intelligence (GeoAI) group at ORNL.  In this role, he leverages high-performance computing, machine learning, and computer vision to create foundational geospatial analytic methods enabling at-scale data generation that shed light on pattern-of-life and aid in crisis management. His efforts to generate accurate population estimates and information about urban growth and decline, for example, inform disaster response, identify at-risk areas, and address infrastructure mapping and monitoring. A Purdue University Ph.D. graduate and former employee at the council for scientific and industrial research in South Africa, Dalton brings backgrounds from academia, industry, program leadership, and extensive community service to ORNL to help advance geospatial-based scientific knowledge discovery for societal impact.
+
+          Dalton is a group leader for GeoAI and a senior R&D staff scientist at ORNL.  He is also an Associate Editor for Geoscience and Remote Sensing Letters. He is an interdisciplinary scientist with expertise in artificial intelligence, computer vision, high-performance computing and remote sensing. Dalton leads multidisciplinary teams and projects focused on developing novel methods at the intersection of AI, computer vision, and geography toward the built and physical environment mapping using earth observation data. His research is impacting the generation of accurate population estimates and information about urban growth and decline, informing disaster response, identifying at-risk areas to support national security application challenges. Prior to ORNL, Dalton was a Team Lead and Senior Research Scientist at the Council for Scientific and Industrial Research, South Africa where he established and led a Data Science for Decision Impact team. He received his Ph.D in Electrical and Computer Engineering from Purdue University, West Lafayette.
 
   </p>
  </div>
 <!--
  <br><br>
 
-  <div class="iblock headshotname"> James Zou </div>
- <p><a href="https://www.james-zou.com/" class="headshotaffiliation" target="_blank">Stanford University</a></p>
+  <div class="iblock headshotname"> Aditya Grover </div>
+ <p><a href="https://aditya-grover.github.io/" target="_blank">UCLA </a></p>
  <div class="iblock headshotbox"> 
-  <p><img src="{{basepath}}/images/speakers/james.jpeg" class="headshot" alt="picture of James"></p>
+  <p><img src="{{basepath}}/images/speakers/aditya.jpeg" class="headshot" alt="picture of Aditya"></p>
   <p align='justify'>
-  James is Assistant Professor of Biomedical Data Science and, by courtesy, of Computer Science and Electrical Engineering at Stanford University. He works on making machine learning more reliable, human-compatible and statistically rigorous, and he especially interested in applications in human disease and health. Several of our algorithms are widely used in tech and biotech industries. He received a Ph.D from Harvard in 2014, and was a member of Microsoft Research, a Gates Scholar at Cambridge and a Simons fellow at UC Berkeley. He joined Stanford in 2016 and am excited to be a two-time Chan-Zuckerberg Investigator and the faculty director of the university-wide Stanford Data4Health hub. He also a member of the Stanford AI Lab. His research is supported by the Sloan Fellowship, the NSF CAREER Award, and Google, Amazon and Adobe AI awards. 
+Aditya Grover is assistant professor of computer science at UCLA. He lead the Machine Intelligence (MINT) group, where we develop AI systems that can interact and reason with limited supervision. His current research is at the intersection of generative models and sequential decision making. On the applied side, He actively ground this research for developing systems and software for data-driven scientific discovery, particularly in climate and sustainability domains via the ML4Climate initiative.
+
+Before joining UCLA, He spent a gap year as a research scientist in the Core ML team at FAIR, Meta. He completed His postdoctoral training at UC Berkeley (advisor: Pieter Abbeel), PhD at Stanford University (advisor: Stefano Ermon) and bachelors at IIT Delhi (co-advisors: Mausam, Parag Singla), all in computer science. During his PhD, He spent wonderful summers interning at Google Brain, Microsoft Research, and OpenAI.
   </p>
  </div>
 
  <br><br>
- <div class="iblock headshotname"> Adji Bousso Dieng </div>
-  <p><a href="https://vertaix.princeton.edu/people/" class="headshotaffiliation" target="_blank">Princeton University</a></p>
+ <div class="iblock headshotname"> Georgina Curto Rex </div>
+  <p><a href="https://www.georginacurto.com/" target="_blank">ND Technology Ethics Center, University of Notre Dame</a></p>
  <div class="iblock headshotbox"> 
-  <p><img src="{{basepath}}/images/speakers/adji.jpeg" class="headshot" alt="picture of Adji"></p>
+  <p><img src="{{basepath}}/images/speakers/georgina.jpeg" class="headshot" alt="picture of georgina"></p>
   <p align ='justify'>
-  Adji is assistant Professor of Computer Science at Princeton University where she lead Vertaix on research at the intersection of artificial intelligence and the natural sciences. She is affiliated with the High Meadows Environmental Institute (HMEI). She is also a Research Scientist at Google AI and the founder and President of the nonprofit The Africa I Know. She has been named an AI2050 Early Career Fellow by Schmidt Futures and the Annie T. Randall Innovator of 2022 for her research and advocacy by the American Statistical Association. She received her PhD from Columbia University where she was advised by David Blei and John Paisley. Her doctoral work received many recognitions, including a Google PhD Fellowship in Machine Learning, a rising star in Machine Learning nomination by the University of Maryland, and a Savage Award from the International Society for Bayesian Analysis, for her doctoral thesis. she hail from Kaolack, Senegal.
+  Georgina is a Postdoctoral Fellow at the ND Technology Ethics Center (University of Notre Dame) and incoming faculty at the Lucy Family Institute for Data and Society.  She has the honor to Chair the IJCAI Symposia in the Global South and Co-Chair the AI & Social Good Special Track at the International Joint Conference on Artificial Intelligence (IJCAI'23). 
+
+Focusing on issues of poverty mitigation, fairness and inclusion, she works on the design of AI socio-technical systems that provide new insights to counteract inequality, and more broadly, to advance interdisciplinary research towards the achievement of the UN Sustainable Development Goals (SDGs). 
+
+She conduct research that contributes to the AI state of the art  in Natural Language Processing, Agent-Based Modeling, Social Networks and Machine Learning, with the ultimate goal to offer insights for innovative interventions to local and global challenges. Some of these lines of research were awarded Best AI for Good Project at the 31st International Joint Conference on Artificial Intelligence (IJCAI'22) and Outstanding Paper at the ACL (Association of Computational Linguistics) within the 7th Workshop on Online Abuse and Harms. 
+
   </p>
  </div>
-  
+
+  <!--
   <br><br>
 
  <div class="iblock headshotname"> Joshua Blumenstock </div>
