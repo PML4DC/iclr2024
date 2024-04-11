@@ -45,7 +45,7 @@ The main goal of PML4LRS is to bring together researchers and practitioners (fro
   <div class="iblock headshotname"> Aditya Grover </div>
  <p><a href="https://aditya-grover.github.io/" target="_blank">UCLA </a></p>
  <div class="iblock headshotbox"> 
-  <p><img src="{{basepath}}/images/speakers/aditya.jpeg" class="headshot" alt="picture of Aditya"></p>
+  <p><img src="{{basepath}}/images/speakers/aditya.jpg" class="headshot" alt="picture of Aditya"></p>
   <p align='justify'>
 Aditya Grover is assistant professor of computer science at UCLA. He lead the Machine Intelligence (MINT) group, where we develop AI systems that can interact and reason with limited supervision. His current research is at the intersection of generative models and sequential decision making. On the applied side, He actively ground this research for developing systems and software for data-driven scientific discovery, particularly in climate and sustainability domains via the ML4Climate initiative.
 
@@ -57,7 +57,7 @@ Before joining UCLA, He spent a gap year as a research scientist in the Core ML 
  <div class="iblock headshotname"> Georgina Curto Rex </div>
   <p><a href="https://www.georginacurto.com/" target="_blank">ND Technology Ethics Center, University of Notre Dame</a></p>
  <div class="iblock headshotbox"> 
-  <p><img src="{{basepath}}/images/speakers/georgina.jpeg" class="headshot" alt="picture of georgina"></p>
+  <p><img src="{{basepath}}/images/speakers/georgina.jpg" class="headshot" alt="picture of georgina"></p>
   <p align ='justify'>
   Georgina is a Postdoctoral Fellow at the ND Technology Ethics Center (University of Notre Dame) and incoming faculty at the Lucy Family Institute for Data and Society.  She has the honor to Chair the IJCAI Symposia in the Global South and Co-Chair the AI & Social Good Special Track at the International Joint Conference on Artificial Intelligence (IJCAI'23). 
 
