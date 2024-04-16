@@ -25,8 +25,7 @@ The schedule is as follows. All times listed are in GMT+1:
 |03:10 - 03:15 |Q&A:Dalton Lunga | |
 |03:15 - 04:15 |<a href="https://iclr.cc/virtual/2024/21832" target="_blank"> Coffee Break + Poster Session II<a/>| |
 |04:15 - 04:25 |Contributed Talk7:  <a href="https://iclr.cc/virtual/2024/21833" target="_blank">	Sharpness-Aware Minimization (SAM) Improves Classification Accuracy of Bacterial Raman Spectral Data Enabling Portable Diagnostics  </a> |Kaitlin Zareno|
-|04:25 - 04:35 |Contributed Talk8:  <a href="https://iclr.cc/virtual/2024/21834" target="_blank">	A Low-Resource Framework for Detection of Large Language Model Contents
-  </a> |Linh Le|
+|04:25 - 04:35 |Contributed Talk8:  <a href="https://iclr.cc/virtual/2024/21834" target="_blank">	A Low-Resource Framework for Detection of Large Language Model Contents </a> |Linh Le|
 |04:35 - 04:45 |Contributed Talk9:  <a href="https://iclr.cc/virtual/2024/21835" target="_blank">	Majority or Minority: Data Imbalance Learning Method for Named Entity Recognition  </a> |SOTA NEMOTO|
 |04:45 - 04:55 |Contributed Talk10:  <a href="https://iclr.cc/virtual/2024/21836" target="_blank">	Variance-reduced Zeroth-Order Methods for Fine-Tuning Language Models  </a> |Tanmay Gautam|
 |04:55 - 05:00 |<a href="https://iclr.cc/virtual/2024/21837" target="_blank">Closing Remarks <a/>| |
