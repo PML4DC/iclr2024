@@ -7,9 +7,9 @@ The schedule is as follows. All times listed are in GMT+1:
 |Time           |  Speaker    |Talk Title    |
 | ------------- | ----------------- | ------ |
 |08:30 - 08:45 |Opening Remarks | |
-|08:45 - 09:10 |Keynote speaker1: Aditya Grover |TBD |
+|08:45 - 09:10 |Keynote speaker1: <a href="https://iclr.cc/virtual/2024/21815" target="_blank"> TBD </a> |Aditya Grover |
 |09:10 - 09:15 |Q&A: Aditya Grover | |
-|09:15 - 09:25 |Contributed Talk 1:  TBD |TBD |
+|09:15 - 09:25 |Contributed Talk 1: <a href="https://iclr.cc/virtual/2024/21817" target="_blank">Advancing Enterprise Spatio-Temporal Forecasting Applications : Data Mining Meets Instruction Tuning of Language Models for Multi-Modal Time Series Analysis in Low-Resource Settings </a> |Sagar Srinivas Sakhinana |
 |09:25 - 10:25 |Coffee Break + Poster Session I| |
 |10:25 - 10:35 |Contributed Talk 2:  TBD |TBD |
 |10:35 - 10:45 |Contributed Talk 3:  TBD |TBD |
